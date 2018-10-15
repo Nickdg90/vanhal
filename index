@@ -1,0 +1,288 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>VAN HAL installatietechniek</title>
+        <meta name="description" content="VAN HAL installatietechniek van sanitair tot zolders en kelders" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="css/stack-interface.css" rel="stylesheet" type="text/css" media="all">
+        <link href="css/socicon.css" rel="stylesheet" type="text/css" media="all" />
+        <link href="css/iconsmind.css" rel="stylesheet" type="text/css" media="all" />
+        <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+        <link href="css/stack-interface.css" rel="stylesheet" type="text/css" media="all" />
+        <link href="css/theme-greensea.css" rel="stylesheet" type="text/css" media="all" />
+        <link href="css/custom.css" rel="stylesheet" type="text/css" media="all" />
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:200,300,400,400i,500,600,700" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Raleway:300,400,500" rel="stylesheet" type="text/css">
+        <link href="css/font-raleway.css" rel="stylesheet" type="text/css">
+
+    </head>
+    <body data-smooth-scroll-offset="77">
+        <div class="nav-container">
+            <div class="via-1528891984956" via="via-1528891984956" vio="Of">
+                <div class="bar bar--sm visible-xs">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-3 col-md-2">
+                                <a href="index.html"> <img class="logo logo-dark" alt="logo" src="img/logo-dark.png"> <img class="logo logo-light" alt="logo" src="img/logo-light.png"> </a>
+                            </div>
+                            <div class="col-9 col-md-10 text-right">
+                                <a href="#" class="hamburger-toggle" data-toggle-class="#menu1;hidden-xs hidden-sm"> <i class="icon icon--sm stack-interface stack-menu"></i> </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <nav id="menu1" class="bar bar-1 hidden-xs">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-1 col-md-2 hidden-xs">
+                                <div class="bar__module">
+                                    <a href="index.html"> <img class="logo logo-dark" alt="logo" src="https://mail.google.com/mail/u/1/?ui=2&amp;ik=9243371dae&amp;view=fimg&amp;th=161a0555ce2ab93f&amp;attid=0.0.1&amp;disp=emb&amp;attbid=ANGjdJ88kScXLlxWwKpv1_iWGFYWFDLC3Ok7Bx_j5PhaCbIK0hzjqtig4Z4edsBra0cvIagzCV-_Ma0iNl_gYhy5MMeMMCFYYT3U_5UMjYpU0-fNagZBm7TxNGTBZQk&amp;sz=s0-l75-ft&amp;ats=1528890855890&amp;rm=161a0555ce2ab93f&amp;zw&amp;atsh=1"> <img class="logo logo-light" alt="logo" src="img/logo-light.png"> </a>
+                                </div>
+                            </div>
+                            <div class="col-lg-11 col-md-12 text-right text-left-xs text-left-sm">
+                                <div class="bar__module">
+                                    <ul class="menu-horizontal text-left">
+                                        <li> <a href="#">
+                                        Home</a> </li>
+                                        <li class="dropdown"> <span class="dropdown__trigger">projecten</span>
+                                            <div class="dropdown__container">
+                                                <div class="container">
+                                                    <div class="row">
+                                                        <div class="dropdown__content row w-100">
+                                                            <div class="col-lg-3">
+                                                                <h5>Sanitair</h5>
+                                                                <ul class="menu-vertical">
+                                                                    <li> <a href="#">Badkamers</a> </li>
+                                                                </ul>
+                                                            </div>
+                                                            <div class="col-lg-3">
+                                                                <h5>Verwarming</h5>
+                                                                <ul class="menu-vertical">
+                                                                    <li> <a href="#">CV- ketels<br></a> </li>
+                                                                    <li> <a href="#">Ventilatietechniek<br></a> </li>
+                                                                </ul>
+                                                            </div>
+                                                            <div class="col-lg-3">
+                                                                <h5>Afvoertechniek</h5>
+                                                                <ul class="menu-vertical">
+                                                                    <li> <a href="#">Afvoer</a> </li>
+                                                                </ul>
+                                                            </div>
+                                                            <div class="col-lg-3">
+                                                                <h5>Menu Title</h5>
+                                                                <ul class="menu-vertical">
+                                                                    <li> <a href="#">Single Link</a> </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="dropdown"> <span class="dropdown__trigger">
+                                        Wat wij doen</span>
+                                            <div class="dropdown__container">
+                                                <div class="container">
+                                                    <div class="row">
+                                                        <div class="dropdown__content col-lg-2">
+                                                            <ul class="menu-vertical">
+                                                                <li> <a href="#">Afvoer techniek<br></a> </li>
+                                                                <li> <a href="#">Sanitair<br></a> </li>
+                                                                <li> <a href="#">Ventilatietechniek<br></a> </li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="bar__module">
+                                    <a class="btn btn--sm type--uppercase" href="#customise-template"> <span class="btn__text">NEEM Contact op</span> </a>
+                                    <a class="btn btn--sm btn--primary type--uppercase" href="#purchase-template"> <span class="btn__text">offerte aanvragen</span> </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+        </div>
+        <div class="main-container">
+            <section class="switchable feature-large switchable--switch">
+                <div class="container">
+                    <div class="row justify-content-around">
+                        <div class="col-md-6"> <img alt="Van Hal" class="border--round box-shadow-wide" src="https://mail.google.com/mail/u/1/?ui=2&amp;ik=9243371dae&amp;view=fimg&amp;th=161a0555ce2ab93f&amp;attid=0.0.1&amp;disp=emb&amp;attbid=ANGjdJ88kScXLlxWwKpv1_iWGFYWFDLC3Ok7Bx_j5PhaCbIK0hzjqtig4Z4edsBra0cvIagzCV-_Ma0iNl_gYhy5MMeMMCFYYT3U_5UMjYpU0-fNagZBm7TxNGTBZQk&amp;sz=s0-l75-ft&amp;ats=1528890855890&amp;rm=161a0555ce2ab93f&amp;zw&amp;atsh=1"> </div>
+                        <div class="col-md-6 col-lg-5">
+                            <div class="switchable__text">
+                                <h2>VANHAL - Installatietechniek&nbsp;<br>uw betrouwbare partner</h2>
+                                <p class="lead"> Is uw cv-ketel aan vervanging toe? Wilt u ook een lagere energierekening door duurzame energiebronnen toe te passen? Of wilt u een vakkundig advies over uw ventilatiesysteem in uw woning of kantoorpand? </p> <a href="#">Meer weten...</a> </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="bg--dark">
+                <div class="container">
+                    <div class="row justify-content-between">
+                        <div class="col-md-6">
+                            <h4>VANHAL Installatietechniek</h4>
+                            <p class="lead"> Installatietechniek is een breed begrip. Van luchtbehandelingsinstallaties, perslucht, koelwater, douchetechniek, koud en warmwaterinstallatie en afvoerinstallaties. </p>
+                            <p> Stack ships with over 140 content layouts, including 30 tailored niche homepages (from startup landing page to restaurant, portfolio and more) showcasing just a glimpse of what is possible with the detailed block and element library — from working social media feeds, contact forms and subscription blocks to fullscreen lightbox galleries and filterable portfolios, Stack is infinitely reusable, the ideal go-to template for your client projects. </p>
+                            <p> Each of Stack’s 240+ interface blocks are powered by the vast collection of customisable elements. This modular system empowers developers to create their own blocks quickly and easily leaving more time for layout and interface experimentation. </p>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="boxed boxed--lg boxed--border bg--secondary"> <img alt="image" src="img/cowork-6.jpg" class="border--round">
+                                <h5>(Project Maarsbergen, kamer incl. ophanging ventilatie)</h5>
+                                <p>Hier een impressie van onze plaatsing van een ventilatieruimte in Maarsbergen. Deze ruimte is speciaal ingericht als werkplek tijdens de warme zomerdagen.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="unpad">
+                <div class="masonry masonry--gapless">
+                    <div class="masonry__container masonry--active">
+                        <div class="masonry__item col-lg-4 col-md-6 col-12 filter-digital" data-masonry-filter="Digital">
+                            <div class="project-thumb hover-element height-50">
+                                <a href="#">
+                                    <div class="hover-element__initial">
+                                        <div class="background-image-holder"> <img alt="background" src="img/architecture-3.jpg"> </div>
+                                    </div>
+                                    <div class="hover-element__reveal" data-overlay="9">
+                                        <div class="project-thumb__title">
+                                            <h5>Project Veenendaal</h5> <span>Plaatsing raamvenster en dakafwerking</span> </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="masonry__item col-lg-8 col-md-6 col-12 filter-digital" data-masonry-filter="Digital">
+                            <div class="project-thumb hover-element height-50">
+                                <a href="#">
+                                    <div class="hover-element__initial">
+                                        <div class="background-image-holder"> <img alt="background" src="img/blog-5.jpg"> </div>
+                                    </div>
+                                    <div class="hover-element__reveal" data-overlay="9">
+                                        <div class="project-thumb__title">
+                                            <h5>Project Binnenwater</h5> <span>Plaatsing en afwerking deurkozijnen</span> </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="text-center">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <h1>VANHAL Installatietechniek staat voor:</h1>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="text-center">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-3">
+                            <a href="#" class="block">
+                                <div class="feature boxed boxed--border border--round"> <i class="icon-Wrench icon--lg"></i> <span class="h5 color--primary"><p>Professionele Service</p></span> </div>
+                            </a>
+                        </div>
+                        <div class="col-md-3">
+                            <a href="#" class="block">
+                                <div class="feature boxed boxed--border border--round"> <i class="icon-Handshake icon--lg"></i> <span class="h5 color--primary"><p>Betrouwbaarheid</p></span> </div>
+                            </a>
+                        </div>
+                        <div class="col-md-3">
+                            <a href="#" class="block">
+                                <div class="feature boxed boxed--border border--round"> <i class="icon--lg icon-Checked-User"></i> <span class="h5 color--primary"><p>Persoonlijk contact</p></span> </div>
+                            </a>
+                        </div>
+                        <div class="col-md-3">
+                            <a href="#" class="block">
+                                <div class="feature boxed boxed--border border--round"> <i class="icon-Map2 icon--lg"></i> <span class="h5 color--primary"><p>Service op elke locatie</p></span> </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="switchable">
+                <div class="container">
+                    <div class="row justify-content-between">
+                        <div class="col-lg-6 col-md-7 col-12">
+                            <div class="map-container border--round" data-maps-api-key="AIzaSyCfo_V3gmpPm1WzJEC9p_sRbgvyVbiO83M" data-address="Stationsweg West 131A, 3931 EM Woudenberg" data-marker-title="Stack" data-map-style="[{&quot;featureType&quot;:&quot;landscape&quot;,&quot;stylers&quot;:[{&quot;hue&quot;:&quot;#FFBB00&quot;},{&quot;saturation&quot;:43.400000000000006},{&quot;lightness&quot;:37.599999999999994},{&quot;gamma&quot;:1}]},{&quot;featureType&quot;:&quot;road.highway&quot;,&quot;stylers&quot;:[{&quot;hue&quot;:&quot;#FFC200&quot;},{&quot;saturation&quot;:-61.8},{&quot;lightness&quot;:45.599999999999994},{&quot;gamma&quot;:1}]},{&quot;featureType&quot;:&quot;road.arterial&quot;,&quot;stylers&quot;:[{&quot;hue&quot;:&quot;#FF0300&quot;},{&quot;saturation&quot;:-100},{&quot;lightness&quot;:51.19999999999999},{&quot;gamma&quot;:1}]},{&quot;featureType&quot;:&quot;road.local&quot;,&quot;stylers&quot;:[{&quot;hue&quot;:&quot;#FF0300&quot;},{&quot;saturation&quot;:-100},{&quot;lightness&quot;:52},{&quot;gamma&quot;:1}]},{&quot;featureType&quot;:&quot;water&quot;,&quot;stylers&quot;:[{&quot;hue&quot;:&quot;#0078FF&quot;},{&quot;saturation&quot;:-13.200000000000003},{&quot;lightness&quot;:2.4000000000000057},{&quot;gamma&quot;:1}]},{&quot;featureType&quot;:&quot;poi&quot;,&quot;stylers&quot;:[{&quot;hue&quot;:&quot;#00FF6A&quot;},{&quot;saturation&quot;:-1.0989010989011234},{&quot;lightness&quot;:11.200000000000017},{&quot;gamma&quot;:1}]}]" data-map-zoom="15"></div>
+                        </div>
+                        <div class="col-lg-5 col-md-5">
+                            <div class="switchable__text">
+                                <h3>VANHAL Installatietechniek<br>Stationsweg West 131A<br>3931 EM Woudenberg</h3>
+                                <p class="lead"> E-mail: info@vanhal-installatietechniek.nl&nbsp;<br> Telefoon: 06 1234 5678</p>
+                                <p class="lead"> Voor meer informatie of direct contact voor een offerte, kunt u bellen of mailen met bovenstaand nummer of e-mailadres.</p>
+                                <p class="lead"> We staan u graag te woord!</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="switchable imagebg height-50 switchable--switch" data-overlay="1">
+                <div class="background-image-holder"><img alt="background" src="img/gallery-1.jpg"></div>
+                <div class="container pos-vertical-center">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <h2>Design-driven and perfect for modern startups</h2>
+                            <p class="lead"> Stack offers a clean and contemporary to suit a range of purposes from corporate, tech startup, marketing site to digital storefront. </p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <footer class="footer-6 unpad--bottom">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-6 col-md-3">
+                            <h6 class="type--uppercase">About Us</h6>
+                            <p> Stack is a robust multipurpose HTML template designed with modularity at the core. Easily combine over 200 interface blocks to create websites for any purpose. </p>
+                        </div>
+                        <div class="col-sm-6 col-md-3">
+                            <h6 class="type--uppercase">Recent Updates</h6>
+                            <div class="tweets-feed tweets-feed-2" data-feed-name="mrareweb" data-amount="2"></div>
+                        </div>
+                        <div class="col-sm-6 col-md-3">
+                            <h6 class="type--uppercase">Instagram</h6>
+                            <div class="instafeed instafeed--gapless" data-user-name="mediumrarethemes" data-amount="6" data-grid="3"></div>
+                        </div>
+                        <div class="col-sm-6 col-md-3">
+                            <h6 class="type--uppercase">Newsletter</h6>
+                            <form action="//mrare.us8.list-manage.com/subscribe/post?u=77142ece814d3cff52058a51f&amp;id=f300c9cce8" data-success="Thanks for signing up.  Please check your inbox for a confirmation email." data-error="Please provide your email address."> <input class="validate-required validate-email" type="text" name="EMAIL" placeholder="Email Address"> <button type="submit" class="btn btn--primary type--uppercase">Subscribe</button>
+                                <div style="position: absolute; left: -5000px" aria-hidden="true"> <input type="text" name="b_77142ece814d3cff52058a51f_f300c9cce8" tabindex="-1" value=""> </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+                <div class="footer__lower text-center-xs">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-sm-6"> <span class="type--fine-print">© <span class="update-year"></span> Medium Rare — All Rights Reserved</span>
+                            </div>
+                            <div class="col-sm-6 text-right text-center-xs">
+                                <ul class="social-list list-inline">
+                                    <li><a href="#"><i class="socicon socicon-google icon icon--xs"></i></a></li>
+                                    <li><a href="#"><i class="socicon socicon-twitter icon icon--xs"></i></a></li>
+                                    <li><a href="#"><i class="socicon socicon-facebook icon icon--xs"></i></a></li>
+                                    <li><a href="#"><i class="socicon socicon-instagram icon icon--xs"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+        </div>
+        <script src="js/jquery-3.1.1.min.js"></script>
+        <script src="js/parallax.js"></script>
+        <script src="js/isotope.min.js"></script>
+        <script src="js/twitterfetcher.min.js"></script>
+        <script src="js/spectragram.min.js"></script>
+        <script src="js/smooth-scroll.min.js"></script>
+        <script src="js/scripts.js"></script>
+
+    </body>
+
+</html>
